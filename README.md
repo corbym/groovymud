@@ -1,4 +1,23 @@
-# groovymud
+```
+.-_'''-.  .-------.     ,-----.       ,-----.  ,---.  ,---  ____     __   
+ '_( )_   \ |  _ _   \  .'  .-,  '.   .'  .-,  '.|   /  |     \   \   /  /
+|(_ o _)|  '| ( ' )  | / ,-.|  \ _ \ / ,-.|  \ _ |  |   |  .   \  _. /  '
+. (_,_)/___||(_ o _) /;  \  '_ /  | ;  \  '_ /  :|  | _ |  |    _( )_ .'
+|  |  .----.| (_,_).' |  _`,/ \ _/  |  _`,/ \ _/||  _( )_   __(_  o _)'
+'  \  '-   '|  |\ \  |: (  '\_/ \   : (  '\_/ \ ;\ (_ o._) |   |(_,_)'
+ \  `-'`   ||  | \ `'  \ `"/  \  ) / \ `"/  \  )  \ (_,_) /|   `-'  /
+  \        /|  |  \     '. \_/``".'   '. \_/``".'  \     /  \      /
+   `'-...-' ''-'    ,---. ',---.' ___  _-_____     `-- -`    `-..-'
+                   |    \  /    .'   |  |||   _ `''.
+                   |  ,  \/  ,  |   .'  |||_ | ) _  \
+                   |  |\_   /|  .'  '_  ||( ''_'  ) |
+                   |  _( )_/ |  '   ( \.-||. (_) `. |
+                   | (_ o _) |  ' (`. _` |(_    ._) '
+                   |  (_,_)  |  | (_ (_) |) (_.\.' /
+                   |  |      |  |\ /  . \|/      .'
+                   '--'      '--' ``-'`-''-----'`
+```
+
 GroovyMud was a forey into the interactions between the Groovy language and Java. It is a fully-fledged mud, implemented (badly) - but it wasn't about being correct it was about learning the limitations of myself and the Groovy/Java language.
 
 It probably doesn't even compile any more, but it was fun :)
