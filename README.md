@@ -26,7 +26,7 @@ It probably doesn't even compile any more, but it was fun :)
 
 A MUD is short for Multi User Dungeon, and is (usually) text based. Users require a telnet connection to interact with the MUD, and issue text commands like `look`, `north`, `get foo from bar` etc.
 
-For further information about what MUDs are try (here)[http://www.mudconnect.com/mud_intro.html] and for playable muds try (here)[http://www.topmudsites.com/].
+For further information about what MUDs are try [here](https://www.mudconnect.com/mud_intro.html) and for playable muds try [here](http://www.topmudsites.com/).
 
 # Why is it only one Git commit, what happened?
 
