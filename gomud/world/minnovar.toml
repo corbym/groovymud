@@ -1,0 +1,39 @@
+[[item]]
+id = "item:sword"
+name = "a rusty sword"
+short_names = ["sword", "rusty sword"]
+
+[[room]]
+id = "town:centre"
+name = "Town Square"
+description = "You are standing in the town centre. The cobblestones are worn smooth by countless feet."
+short_description = "Town Square, Centre"
+items = ["item:sword"]
+[room.exits]
+north = "town:north"
+south = "town:south"
+west  = "town:shop"
+
+[[room]]
+id = "town:north"
+name = "Town Square, North"
+description = "The northern end of the town square. A fountain trickles nearby."
+short_description = "Town Square, North"
+[room.exits]
+south = "town:centre"
+
+[[room]]
+id = "town:south"
+name = "Town Square, South"
+description = "The southern end of the town square. Merchants hawk their wares."
+short_description = "Town Square, South"
+[room.exits]
+north = "town:centre"
+
+[[room]]
+id = "town:shop"
+name = "Local Shop"
+description = "A small shop crammed with all manner of adventuring supplies."
+short_description = "Local Shop"
+[room.exits]
+east = "town:centre"
