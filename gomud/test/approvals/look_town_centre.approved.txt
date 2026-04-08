@@ -1,0 +1,7 @@
+
+--- Town Square ---
+You are standing in the town centre. The cobblestones are worn smooth by countless feet.
+Exits: north, south, west
+  a rusty sword is here.
+
+> 
